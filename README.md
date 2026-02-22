@@ -1,9 +1,9 @@
 # Hidden Markov Model (HMM) - Baum Welch Algorithm
 
 ## Student Details
-Name: SIVANANDHA K
-Register Number: TCR24CS064
-Course: Pattern Recognition 
+Name: **SIVANANDHA K**  
+Register Number: **TCR24CS064**  
+Course: Pattern Recognition   
 
 ---
 
@@ -120,14 +120,14 @@ Steps:
 
 ## 📁 Project Structure
 
-
+```
 HMM_BaumWelch/
 │
 ├── hmm.py # Baum-Welch implementation
 ├── app.py # Streamlit visualization app
 ├── requirements.txt # Required libraries
 └── README.md # Project documentation
-
+```
 
 ---
 
